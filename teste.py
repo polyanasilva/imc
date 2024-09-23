@@ -1,0 +1,1 @@
+conteudo do arquivo para mostar no bash... OK!
