@@ -1,17 +1,14 @@
 # Body Mass Index Calculator (IMC)
 
 This program simple example developed in phyton with jupyter lab, calculates the Body Mass Index (IMC)
-
 1) Get the user's weight in kilograms
 ```
 weight = float(input("Enter your weight in kilograms: "))
 ```
-
 2) Get the user's height in meters
 ```
 height = float(input("Enter your height in meters: "))
 ```
-
 3) Calculate the IMC
 ```
 imc = weight / (height ** 2)
